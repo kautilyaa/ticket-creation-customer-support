@@ -1,0 +1,156 @@
+"Timestamp","Subject (FROM MAIL)","Body (FROM MAIL)","CATEGORY","REGARDING"
+"2019/03/02 2:47:16 pm GMT+5:30","COMPLAINT: Baggage Related","Hey, I'm Anmol Singh i Traveled from New Delhi to Chennai on 27/02/2019.
+I have a complaint of bag lost. My bag is of black color. 
+My contact details are- 
+Name- Anmol Singh
+Phone No.- 1234567890 
+Ticket Details-
+PNR-JJJ21Q
+From- New Delhi 
+To-Chennai
+Date-27/02/2019
+Train name-Chennai Express
+
+Thanks
+Regards,
+Anmol Singh","Complaint","Baggage Related"
+"2019/03/02 2:49:19 pm GMT+5:30","APPRECIATION: Meal Service","I want to appreciate IRCTC for bringing such good catering services for there customers. ","Appreciation","Food"
+"2019/03/02 2:56:10 pm GMT+5:30","Suggestion: Website","Hi, I want to give some suggestion regarding website . The website can be made more user friendly by improving the UI.","Suggestion","Website"
+"2019/03/02 2:59:49 pm GMT+5:30","Complaint regarding train delay ","Hi im shikhar bhardwaj . I recently travelled on Rajdhani express from sivakasi to sarai today. It was delayed by 1 hour from sivakasi. ","Complaint","Delays OR Cancellation"
+"2019/03/02 3:04:25 pm GMT+5:30","Suggestion for railway station","i noticed that in bhagat ki kothi there were no toilets. please act upon it soon. ","Suggestion","Station "
+"2019/03/02 3:09:11 pm GMT+5:30","Request for wheelchair ","hi im siddharth sharma . i want a wheelchair at nizamuddin station ,new delhi next tuesday.
+my contact details - 
+name - siddharth sharma
+phone number - 9064231233
+timing - 6:00 pm
+","Request","Special Assistance"
+"2019/03/02 3:12:33 pm GMT+5:30","Appreciation regarding fare ","i wanted to appreciate that the fare was nominal and i am satisfied ","Appreciation","Fare"
+"2019/03/02 3:13:22 pm GMT+5:30","Enquiry regarding Tatkaal - 8855446683","Hi, im Rishab Pai . i want to know the status for my tatkaal ticket number  8855446683.
+Contact Details 
+Name- Rishab Pai
+Phone no.- 2345678901","Enquiry","Tatkaal"
+"2019/03/02 3:14:01 pm GMT+5:30","food Suggestion ","this email is a suggestion regarding the food. i wanted to let you know that the food served is very spicy. please see to it.","Suggestion","Food"
+"2019/03/02 3:16:13 pm GMT+5:30","ENQUIRY","hi,i am vivaan khajuria. i travelled on Ajanta Express from secundrabad to nizamabad on 15/2/19","Enquiry","Train Details"
+"2019/03/02 3:17:51 pm GMT+5:30","baggage Complaint","shikhar bhardwaj is my name. i had a complaint regarding baggage. my baggage was stolen today at kota junction. please help recover it ","Complaint","Baggage Related"
+"2019/03/02 3:21:57 pm GMT+5:30","Suggestion for New Train","I want to suggest a new train from New delhi to Amritsar Junction.","Suggestion","New Train Request"
+"2019/03/02 3:23:19 pm GMT+5:30","Request for refund of fare","i am aman shah. i wanted to request a refund of 1500 rupees for the train ajmer express.","Request","Refund"
+"2019/03/02 3:24:44 pm GMT+5:30","ENQUIRY","i am sanand sharma ,travelling from delhi to mumbai via indian railways.can we carry liquids?","Enquiry","FAQ"
+"2019/03/02 3:28:36 pm GMT+5:30","Baggage related Enquiry ","i wanted to know if we can carry guns in trains","Enquiry","Baggage Related"
+"2019/03/02 3:29:06 pm GMT+5:30","Request for Wheelchair at railway station","Hi,
+i have a booking on Ahimsa Express from Pune to ahmedabad for my parents travelling on 7/7/19.Their names are Mr. Suresh Kumar And Mrs Meena Kumar.
+i need wheelchair assistance for both of them at both the stations. PNR is 123-1231231.
+Thanking you
+Rohit Kumar
+
+","Request","Special Assistance"
+"2019/03/02 3:29:07 pm GMT+5:30","Complaint regarding staff","Hi, im Ashish Singh. I want to complaint regarding staff on my train from Mumbai Central to Ahmedabad Junction on 28-Feburary-2019. The staff was too rude.","Complaint","Staff Related"
+"2019/03/02 3:31:32 pm GMT+5:30","Appreciation of website content","the website user interface is very nice and user friendly ","Appreciation","Website"
+"2019/03/02 3:31:42 pm GMT+5:30","mail regarding Enquiry","i have to board Amritha express from trivandrum to palghat town today. i need to know the status of the train. Regards,amulya","Enquiry","Train Details"
+"2019/03/02 3:32:38 pm GMT+5:30","Appreciation: Call Centre","I want to appreciate the Call Centre which helped me out in solving my problem easily.","Appreciation","Call Center"
+"2019/03/02 3:34:29 pm GMT+5:30","staff related Suggestion","the staff at vadodara junction is very rude. please do the needful.","Suggestion","Staff Related"
+"2019/03/02 3:35:36 pm GMT+5:30","Complaint : Train Canceled","My train from Ahmedabad Junction to Patna Junction yesterday was canceled without any prior notice.
+Train Details-
+From Ahmedabad Junction
+To- Patna Junction 
+Time-6:00 PM","Complaint","Delays OR Cancellation"
+"2019/03/02 3:36:44 pm GMT+5:30","Baggage Lost Complaint","i had a booking from delhi to nagpur on the bangalore Rajdhani on 6 february. My pnr is 345-1234567. I want to lodge a complaint about lost baggage. It was  a Black Skybag Suitcase 45 Ltrs. It had my name written on the name tag and a numerical lock. Kindly contact me as soon as its found. It was lost at Nagpur Junction around 5 pm. Please contact me as soon as its found.
+My contact Details are:
+Rajesh Kanna B
+Ph. 9876543211
+kannaraj@gmail.com
+
+Regards","Complaint","Baggage Related"
+"2019/03/02 3:39:14 pm GMT+5:30","Appreciation mail for excellent hospitality","i recently travelled on the Jat Cstm Special from jammu tawi to delhi and i wanted to show my appreciation fro the hospitality of the train staff from the attendant to the tt ,my wife suddenly started having chest pangs and the staff was very helpful and responsive.kudos to the indian railways.Jai Hind.
+sincerely,
+maheshvar chandrashekhar","Appreciation","Staff Related"
+"2019/03/02 3:39:50 pm GMT+5:30","Complaint about misbehaving Staff","I would never recommend travelling from Indian Railways to a friend ever after the kind of way i was treated in the Sankranti Express from Rohtak to Patiala. The staff present on the train used bad language and misbehaved with my children.","Complaint","Staff Related"
+"2019/03/02 3:39:59 pm GMT+5:30","Enquiry regarding Train Details"," I want to know the schedule of trains from Mumbai Central to Nandurbar.
+Conatact Details-
+Name: Rohan kaur
+Phone No.-4567890123","Enquiry","Train Details"
+"2019/03/02 3:44:18 pm GMT+5:30","Complaint regarding Announcments","i want to make a complaint regarding announcements at chhapra Station.The sound is not at all audible. ","Complaint","Announcements"
+"2019/03/02 3:47:06 pm GMT+5:30","complaint message","my pnr number is 125-4367891 ,i travelled yesterday via kanyakumari express and i left my baggage in the train and got off at bangalore station,i informed the railway authorities about it but i still havent been notified about the whereabouts of my baggage .kindly revert back asap. ","Complaint","Baggage Related"
+"2019/03/02 3:48:01 pm GMT+5:30","Request for train bill","I want to Request for bill for my travel from Ajmer Junction to Udaipur City yesterday.
+Travel details
+PNR-1122334455
+From-Ajmer
+To-Udaipur City
+Contact Details-
+Name-Arunhub
+Phone No.-5678901234","Request","Request Documents"
+"2019/03/02 3:51:19 pm GMT+5:30","New Delhi Railway Station","Hello
+I am a regular traveller and every time i visit New delhi Railway station, i am greeted with bad smell and dirty platform. I wish the government would take some action and instruct the staff to clean it more often and use better cleaning products which would lead to non stinky platforms.
+Regards
+Subbulakshmi T ","Complaint","Station"
+"2019/03/02 3:55:27 pm GMT+5:30","Appreciating the IRCTC","I want to thank the officials at the jaipur Railway sytation. They are a very well Taught staff and know very well how to handle situations. I had missed a train to delhi which would have lead to me missing my flight but the officials were very helpful and helped me get on the next train which would take me to delhi on time. I am very glad that such staff exists and every station in india should have such staff.
+Regards
+Narendra Modi","Appreciation","Station"
+"2019/03/02 3:57:32 pm GMT+5:30","request","my name is aryan katal,pnr number : 2341567891,i have misplaced my ticket receipt that was generated at the railway station as mine wasn't an e-ticket.i woud like to get another copy of it .
+kindly send it. ","Request","Request Documents"
+"2019/03/02 4:08:34 pm GMT+5:30","enquiry ","i am abhirath gulati from delhi and i wanted to know the status of my tatkal ticket,the pnr num is-234-1456789 ","Enquiry","Tatkaal"
+"2019/03/02 4:37:57 pm GMT+5:30","commendable job by the indian railways "," i wanted to send this mail regarding the cleanliness drive that the government has initiated in the trains ,we were asked if we had any garbage that we wanted to dispose off . i think it was really great!","Appreciation","Train Services"
+"2019/03/02 4:39:17 pm GMT+5:30","Suggestion for more Train stations","i am from a village near delhi and i have to travel 20 km to catch a train everyday to work. more than half of the people from my village have the same problem. i want to request the govt. to add habibganj as a stop for the sankranti express going from delhi to chandigarh. It would be a great help for us workers. 
+thanking you
+Ramesh Rohilla","Request","New Train Request"
+"2019/03/02 4:51:33 pm GMT+5:30","great food inside the trains for a change","last night i traveled from chennai to bangalore via indian railways and the food that was served wasn't just tasty but also looked fresh and hygienic","Appreciation","Train Services"
+"2019/03/02 4:55:29 pm GMT+5:30","the toilets inside the train are very bad","i was travelling from faridabad to jaipur on the pnr number-125-9876543 and the toilet facilities inside the trains are so disgusting ,no one would ever want to take a dump in there . Do something about it!!!!!!!","Complaint","Train Services"
+"2019/03/02 5:04:00 pm GMT+5:30","Poor management system in local trains","i am a local mumbaikar and travel almost daily sometimes even multiple times a day in the local trains and i its the worst part of my day as its so crowded that losts of people get hurt on daily basis because of the crowd inside the trains and at the station. kindly appoint some men for this job. It would be a lot easier to travel.
+thanking you
+Manav Khatri","Suggestion","Station"
+"2019/03/02 5:06:00 pm GMT+5:30","Appreciation regarding train services","im really happy with the intrain services by you guys. ","Appreciation","Train Services "
+"2019/03/02 5:08:27 pm GMT+5:30","refund not received","pnr number-435-12345670
+train - karnataka express
+origin- chennai
+destination-bengaluru
+mobile number-7397430237
+card number- 1234 2345 3456 7780
+paid via- makemytrip
+booking id-32417828wa
+i canceled my booking but i haven't received my refund.look into it. ","Request","Refund"
+"2019/03/02 5:09:40 pm GMT+5:30","Request for Refund","Hi, im Sakshi jain. i want a refund for the train from Delhi to Dehradun as i missed my train due to obvious reasons.
+Conatct Details-
+Name-Sakshi Jain
+Phone No.-7788991122","Request","Refund"
+"2019/03/02 5:11:02 pm GMT+5:30","Commending food services ","the food service by irctc is awesome. very happy with it. ","Appreciation","Food"
+"2019/03/02 5:12:51 pm GMT+5:30","Appreciating station facilities ","the amenities at the station nim ka thana are great. ","Appreciation","Station"
+"2019/03/02 5:12:54 pm GMT+5:30","Appreciation for coder","I want to tell u that the person doing coding in SIH hackathon is super Duper COOL and is very good u cant get a coder like him","Appreciation","Announcements"
+"2019/03/02 5:14:54 pm GMT+5:30","Fare is good","The fare are cheap good poor aswell as rich people.","Suggestion","Fare"
+"2019/03/02 5:22:16 pm GMT+5:30","amount return","pnr number-198-7654320
+train - chennaiexpress
+origin- chennai central
+destination-sai p nilayam
+mobile number-7397430237
+card number- 1234 2345 3456 7780
+paid via- makemytrip
+booking id-32417828wa
+i canceled my booking but i haven't received my refund 
+refund amount-Rs 10","Request","Refund"
+"2019/03/02 5:22:36 pm GMT+5:30","RE COMPLAINT: PAYMENT FAILURE","PNR 765-3456785
+This is the third time i am complaining about this issue but every time i login from my irctc account i am never able to book any tickets because the payment is never completed. Please help.
+irctc account - yadavjatin@gmail.com
+Thanking you
+Jatin Yadav ","Complaint","Not Able To Pay"
+"2019/03/02 5:24:05 pm GMT+5:30","Issues With indian Railways","Dear Sir,
+
+As a frequent rail traveler, I feel that I have a fair understanding of the problems one might encounter when traveling by train. Some problems that arise on trains are certainly matters of safety and are therefore out of the hands of the rail line. However, this past July I took a cross-country trip on the Seaside line operated by your company, Anystate Railways, that was absolutely unacceptable. Several problems arose while I was on this trip, and I hope your company will take steps to address some of the major problems with your trains.
+
+First, the train itself was dirty. The bathrooms had toilet paper all over the floor and the seats themselves were full of crumbs from previous passengers. Also, the windows (which are one of the main draws of train travel) were streaked with handprints.
+
+Second, the employees on the train were rude. In one case, I politely asked an employee for directions, and she yelled at me because she was on her break. I, of course, did not know this because she was still wearing her uniform and walking around.
+
+Finally, the delays we encountered were caused by poor planning, not safety concerns. We were delayed because some of your employees had been working too long, so the train literally stopped and sat in the middle of nowhere for no reason. This delay caused me to miss a connection to the next train, and eventually resulted in me taking a bus for the rest of my trip.
+
+I am afraid that if you cannot offer a better level of service, I will have to give up my tradition of travel by rail. I would appreciate any redress you can provide me, if not a refund for the leg of travel you caused me to miss. Please contact me at 555-555-5555. I look forward to hearing what you intend to do about this terribly disappointing trip.
+
+Sincerely,","Complaint","Many Issues"
+"2019/03/02 5:29:53 pm GMT+5:30","New train please","Hi I want a New train from Jammu Tawi to Chennai Central please.","Request","New Train Request"
+"2019/03/02 5:30:52 pm GMT+5:30","Suggestion on train services","hi . i would like to see more staff working inside trains to increase the cleanliness.","Suggestion","Train Service"
+"2019/03/02 5:36:00 pm GMT+5:30","proposing irctc to send train delay a little early","the irctc should inform the passengers about train delays well in advance had to wait at the railway station for 5 hours","Complaint","Delays OR Cancellation"
+"2019/03/02 5:42:14 pm GMT+5:30","greivances regarding the indian railways","pnr number-10015436283
+train - karnataka express
+origin- chennai
+destination-bengaluru
+mobile number-7397430237
+paid via- google pay
+transaction id-wsdafhnj123
+i canceled my booking but i haven't received my refund ","Complaint","Refund"

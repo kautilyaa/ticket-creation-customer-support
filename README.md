@@ -1,7 +1,7 @@
 # Ticket Creation Customer Support
 Automatic ticket creation for Customer Support.<br>
 Run email_full.py to start fetching mail from the server and start generating ticket.<br>
-# Our topic focus on basically these particular areas:
+## Our topic focus on basically these particular areas:
 - The correctness of the data given to the machine by the end user if the format is in the required order with no problems in it then it - proceeds to the step where the final ticket is being sent else it goes to the next step.
 - Also to check if the details given by the user are not incomplete. If no the proceed skipping the next steps.
 - If  an error in the given input is detected then it will use the Machine language technique(explained in later slide),or will send back the form to the end user.
@@ -10,6 +10,9 @@ Run email_full.py to start fetching mail from the server and start generating ti
 
 For reference refer https://www.youtube.com/watch?v=oH-CcEjNNjs&feature=youtu.be .<br>
 <br>
+
+## Technology Stack
+
 Here the language used is python with pakages like csv, imaplib, smtplib, email, matplotlib, random, re and the most used package is **_nltk_**. For processing the details, it is used to take out the word. 
 <br>
 ## Use Case

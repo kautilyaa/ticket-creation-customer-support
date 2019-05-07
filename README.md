@@ -10,5 +10,5 @@ Run email_full.py to start fetching mail from the server and start generating ti
 
 For reference refer https://www.youtube.com/watch?v=oH-CcEjNNjs&feature=youtu.be .<br>
 <br>
-Here the language used is python with pakages like numpy , matplotlib, and the most used package is ** ** nltk _ _ .
+Here the language used is python with pakages like numpy , matplotlib, and the most used package is ** ** nltk_ _ .
 <br>

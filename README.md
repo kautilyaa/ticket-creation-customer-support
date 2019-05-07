@@ -20,9 +20,10 @@ Here the language used is python with pakages like csv, imaplib, smtplib, email,
 
 ## Instruction 
 For running the code please update **get_email.py** before :<br>
-
+'''
 imap_ssl_host = 'imap.gmail.com'  // imap.mail.yahoo.com
 imap_ssl_port = 993  //select the port
 username = 'username@gmail.com'//put your username here
 password = 'PASSWORD'// put the password here
   
+'''

@@ -2,8 +2,8 @@ import imaplib
 
 imap_ssl_host = 'imap.gmail.com'  # imap.mail.yahoo.com
 imap_ssl_port = 993
-username = 'anmol.rao0308@gmail.com'
-password = 'Anishti@2704'
+username = Username
+password = Password
 
 imap = imaplib.IMAP4_SSL(imap_ssl_host, imap_ssl_port)
 imap.login(username, password)

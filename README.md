@@ -19,8 +19,8 @@ Here the language used is python with pakages like csv, imaplib, smtplib, email,
 ## Use Case
 ![case](https://user-images.githubusercontent.com/36475185/57319808-13196d80-711b-11e9-9d31-6f158c9e1ca5.png)
 
-## Team
-### [Solvers_VIT](https://www.sih.gov.in/pdf/past_events/software_2019.pdf) <br>
+## Team [Solvers_VIT](https://www.sih.gov.in/pdf/past_events/software_2019.pdf)
+
 Amul Choudhary<br>
 Anmol Rao<br>
 Shikar Bhardwaj <br>

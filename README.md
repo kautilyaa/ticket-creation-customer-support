@@ -21,12 +21,12 @@ Here the language used is python with pakages like csv, imaplib, smtplib, email,
 
 ## Team [Solvers_VIT](https://www.sih.gov.in/pdf/past_events/software_2019.pdf)
 
-⋅⋅* Amul Choudhary<br>
-⋅⋅* Anmol Rao<br>
-⋅⋅* Shikar Bhardwaj <br>
-⋅⋅* Rohan Vashisth<br>
-⋅⋅* Panna Nagpal <br>
-⋅⋅* Arunbh Yashaswi (Team Leader)<br>
+* Amul Choudhary<br>
+* Anmol Rao<br>
+* Shikar Bhardwaj <br>
+* Rohan Vashisth<br>
+* Panna Nagpal <br>
+* Arunbh Yashaswi (Team Leader)<br>
 
 
 ## Instruction 

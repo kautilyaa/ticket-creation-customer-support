@@ -1,4 +1,5 @@
-# Ticket Creation Customer Support
+# Ticket Creation Customer Support | Smart India Hackathon Winning solution 2019
+For problem statement RV5 : Developing a customer support system for customer communating through email
 Automatic ticket creation for Customer Support.<br>
 Run email_full.py to start fetching mail from the server and start generating ticket.<br>
 ## Our topic focus on basically these particular areas:
@@ -17,6 +18,16 @@ Here the language used is python with pakages like csv, imaplib, smtplib, email,
 <br>
 ## Use Case
 ![case](https://user-images.githubusercontent.com/36475185/57319808-13196d80-711b-11e9-9d31-6f158c9e1ca5.png)
+
+## Team
+### [Solvers_VIT](https://www.sih.gov.in/pdf/past_events/software_2019.pdf) <br>
+Amul Choudhary<br>
+Anmol Rao<br>
+Shikar Bhardwaj <br>
+Rohan Vashisth<br>
+Panna Nagpal <br>
+Arunbh Yashaswi (Team Leader)<br>
+
 
 ## Instruction 
 For running the code please update **get_email.py** before :<br>

@@ -9,7 +9,7 @@ Run email_full.py to start fetching mail from the server and start generating ti
 - The form sent will not loose its existing data, it will only require required missing data.
 - Ticket Generation ticket gets generated with all the required details in a given format and gets sent to the user’s email id.
 
-#### For reference refer refer the video in the [link] (https://www.youtube.com/watch?v=oH-CcEjNNjs&feature=youtu.be) .<br>
+#### For reference refer refer the video in the [link](https://www.youtube.com/watch?v=oH-CcEjNNjs&feature=youtu.be) .<br>
 <br>
 
 ## Technology Stack
